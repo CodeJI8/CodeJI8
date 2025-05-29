@@ -1,5 +1,7 @@
 # 👨‍💻 Android Developer Portfolio
 
+![Profile Picture](images/profile.jpg)
+
 Welcome to my GitHub! I'm an Android Developer passionate about building modern, efficient, and user-friendly mobile applications using Kotlin, XML-based UI, and Flutter. I enjoy solving real-world problems with clean architecture and smooth UI/UX.
 
 ## 🚀 About Me
