@@ -1,6 +1,9 @@
 # 👨‍💻 Android Developer Portfolio
 
-![Profile Picture](images/profile.jpg)
+
+<div style="width:80px; height:80px; overflow:hidden; border-radius:50%;">
+  <img src="https://github.com/CodeJI8.png" alt="Profile Picture" width="80" height="80" />
+</div>
 
 Welcome to my GitHub! I'm an Android Developer passionate about building modern, efficient, and user-friendly mobile applications using Kotlin, XML-based UI, and Flutter. I enjoy solving real-world problems with clean architecture and smooth UI/UX.
 
